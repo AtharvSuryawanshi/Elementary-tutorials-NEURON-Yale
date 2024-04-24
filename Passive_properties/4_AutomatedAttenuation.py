@@ -2,7 +2,6 @@
 from neuron import h    
 from neuron.units import ms, mV
 import matplotlib.pyplot as plt
-from scipy.signal import find_peaks
 
 # Create a section to represent the dendrite
 dend = h.Section('dend')
