@@ -2,7 +2,7 @@
 ## Author: Atharv Suryawanshi
 These tutorials are primarily created for the course MB208: Theoretical and Computational Neuroscience in IISc.
 
-NEURON, a powerful simulation environment for modeling neurons and neural networks, can indeed be difficult and complex, especially when starting with the HOC (High-Order Calculator) language. While HOC is as fast as C/C++, it introduces additional difficulty in coding that can at times hinder the understanding of concepts.
+NEURON, a powerful simulation environment for modeling neurons and neuronal networks, can indeed be difficult and complex, especially when starting with the HOC (High-Order Calculator) language. While HOC is as fast as C/C++, it introduces additional difficulty in coding that can at times hinder the understanding of concepts.
 
 Thus, Python a language known for its simplicity and readability. Python provides an elegant alternative for working with NEURON. Here are some key advantages of using Python in conjunction with NEURON:
 
