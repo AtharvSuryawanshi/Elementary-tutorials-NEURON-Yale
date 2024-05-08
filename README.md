@@ -13,4 +13,4 @@ Thus, Python a language known for its simplicity and readability. Python provide
 In light of these advantages, I have curated a set of basic NEURON tutorials using Python. These tutorials aim to bridge the gap between theory and practical implementation, empowering students to explore computational neuroscience with ease.
 
 Feel free to dive into these resources, and contact me if needed.
-Here is a link of [online NEURON documentation](https://neuronsimulator.github.io/nrn/tutorials/index.html)
+Here is a link of [online NEURON documentation](https://neuronsimulator.github.io/nrn/tutorials/index.html).
