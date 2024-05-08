@@ -1,5 +1,5 @@
 # Using MOD files
-MOD files or technically referred as [NMODL files](https://neuronsimulator.github.io/nrn/python/modelspec/programmatic/mechanisms/nmodl2.html) are used in NEURON to create custom mechanisms. These files are saved with and extension of `.mod` . NMODL is a higher level language making it easier to code than usual C based NEURON code. We write our mechanism in a MOD file as it is easier to write and compile it into a C based file for running it in NEURON. 
+MOD files, technically referred to as [NMODL files](https://neuronsimulator.github.io/nrn/python/modelspec/programmatic/mechanisms/nmodl2.html), are used in NEURON to create custom mechanisms. These files are saved with an extension of `.mod`. NMODL is a higher-level language, making it easier to code than usual C-based NEURON code. We write our mechanism in a MOD file as it is easier to write and compile it into a C-based file to run it in NEURON.
 1. We first create a mod file and store it an a separate directory from the python file to avoid a clutter of files. 
 2. Then we compile the mod file using `mknrndll.hoc` file in the NEURON directory. 
 3. The output of compilation are a bunch of files in the directory of the mod file. 
