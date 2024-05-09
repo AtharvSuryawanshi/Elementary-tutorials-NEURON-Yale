@@ -1,6 +1,6 @@
 # Python-tutorials-NEURON-Yale
 ## Author: Atharv Suryawanshi
-These tutorials are primarily created for the course MB208: Theoretical and Computational Neuroscience in IISc.
+These tutorials are primarily created for the course MB208: Theoretical and Computational Neuroscience offered at IISc.
 
 NEURON, a powerful simulation environment for modeling neurons and neuronal networks, can indeed be difficult and complex, especially when starting with the HOC (High-Order Calculator) language. While HOC is as fast as C/C++, it introduces additional difficulty in coding that can at times hinder the understanding of concepts.
 
